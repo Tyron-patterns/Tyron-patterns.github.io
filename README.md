@@ -12,7 +12,7 @@ I specialize in:
 
 - 📊 Data analysis with **SQL**, **Power BI**, and **Excel**
 - 🐍 Exploratory coding with **Python**
-- 🌍 Projects related to **climate change**, **sustainability**, and **data storytelling**
+- 🌍 Projects related to **climate change**, **sustainability**, **business intelligence** and **data storytelling**
 
 ---
 
