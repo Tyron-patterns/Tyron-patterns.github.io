@@ -46,4 +46,4 @@ This repository contains the source code (HTML/CSS/JS) for my GitHub Pages portf
 Feel free to connect or reach out:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tyron-de-la-torre-95bb64311/?originalSubdomain=nl)
-- 📧 Email: tyron.dlt16@gamil.com
+- 📧 Email: tyron.dlt16@gmail.com
