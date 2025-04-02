@@ -27,7 +27,7 @@ This repository contains the source code (HTML/CSS/JS) for my GitHub Pages portf
 
 ## 🔗 Featured Projects
 
-- [🌍 Climate Trends Analysis](https://github.com/Tyron-patterns/global_climate-analysis)  
+- [🌍 Climate Trends Analysis](https://github.com/Tyron-patterns/global-climate-analysis)  
 - [📊 Power BI Sales Dashboard](work in progress)  
 - [🧠 SQL-Based Customer Insights](work in progress)
 
