@@ -38,7 +38,7 @@ This repository contains the source code (HTML/CSS/JS) for my GitHub Pages portf
 
 - ## 🔗 Python and general coding projects
 
-- [💻 Pyhon mini projects](https://github.com/Tyron-patterns/Python_projects)
+👉 [💻 Pyhon mini projects](https://github.com/Tyron-patterns/Python_projects)
   
 
 - ## 🔗 SQL commands guide
