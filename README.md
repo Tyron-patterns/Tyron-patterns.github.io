@@ -27,17 +27,23 @@ This repository contains the source code (HTML/CSS/JS) for my GitHub Pages portf
 
 ## 🔗 Featured Projects
 
-- ## 🔗 Featured Project
+- ## 🔗 Real-life Data Analysis Project
 
-👉 <a href="https://github.com/Tyron-patterns/global-climate-analysis" target="_blank">
-🌍 Climate Trends Analysis (GitHub Repo)
-</a>
-
-👉 <a href="https://github.com/Tyron-patterns/SQL-cheat-sheet" target="_blank">
+👉 [🌍 Climate Trends Analysis (GitHub Repo)](https://github.com/Tyron-patterns/global-climate-analysis)
 
 
 - [📊 Power BI Sales Dashboard](work in progress)  
 - [🧠 SQL-Based Customer Insights](work in progress)
+  
+
+- ## 🔗 Python and general coding projects
+
+- [💻 Pyhon mini projects](https://github.com/Tyron-patterns/Python_projects)
+  
+
+- ## 🔗 SQL commands guide
+
+👉 [📝 SQL cheat sheet - SQL quick guide](https://github.com/Tyron-patterns/SQL-cheat-sheet)
 
 ---
 
