@@ -33,6 +33,8 @@ This repository contains the source code (HTML/CSS/JS) for my GitHub Pages portf
 🌍 Climate Trends Analysis (GitHub Repo)
 </a>
 
+👉 <a href="https://github.com/Tyron-patterns/SQL-cheat-sheet" target="_blank">
+
 
 - [📊 Power BI Sales Dashboard](work in progress)  
 - [🧠 SQL-Based Customer Insights](work in progress)
